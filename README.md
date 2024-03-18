@@ -31,7 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Wane2412/Wane2412/output/snake.svg" alt="Snake animation" />
 
 ###
 
